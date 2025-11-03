@@ -70,7 +70,6 @@ class LogisticRegression:
         return y_pred
 
 
-    # Simple dataset: [Age, Salary]
 X = np.array([
     [18, 20000],
     [20, 22000],
@@ -84,7 +83,6 @@ X = np.array([
     [60, 50000]
 ])
 
-    # Target labels: 0 = Not Buy, 1 = Buy
 y = np.array([0, 0, 0, 0, 0, 1, 1, 1, 1, 1])
 
 def min_max_scale(X):
