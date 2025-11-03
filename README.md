@@ -16,10 +16,6 @@ The goal of this project is to deeply understand how each algorithm works under 
 - **K-Means Clustering**
 - **Anomaly Detection (Gaussian Model)**
 
-### 🟥 Neural Network
-- **Single Hidden Layer Neural Network**  
-  Implemented with forward and backward propagation using NumPy.
-
 ---
 
 ## ⚙️ Technologies
